@@ -1,1 +1,11 @@
 This is a test text file for Github
+
+Here are my edits. ##testing
+
+(This is text I'm adding in Vim)
+
+((Here's a second edit after making sure the save worked on the first one))
+
+#hackerman
+
+-RR
